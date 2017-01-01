@@ -1,9 +1,9 @@
 {
-    "author": "John Doe",
+    "author": "Stephan Kautz",
     "version": "0.1a",
     "compatible": 1,
     "url": "http:\/\/www.ip-symcon.de\/forum\/",
-    "git": "http:\/\/www.github.com\/johnDoe\/notfound\/",
+    "git": "http:\/\/www.github.com\/kautz73\/SkinKautz\/",
     "icons": [
         "Bewegungsmelder_32",
         "Bewegungsmelder_Cancel_32",
