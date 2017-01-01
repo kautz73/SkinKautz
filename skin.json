@@ -1,0 +1,22 @@
+{
+    "author": "John Doe",
+    "version": "0.1a",
+    "compatible": 1,
+    "url": "http:\/\/www.ip-symcon.de\/forum\/",
+    "git": "http:\/\/www.github.com\/johnDoe\/notfound\/",
+    "icons": [
+        "Bewegungsmelder_32",
+        "Bewegungsmelder_Cancel_32",
+        "Bewegungsmelder_Ok_32",
+        "Raum_Arbeit_32",
+        "Raum_Bad_32",
+        "Raum_Flur_32",
+        "Raum_Hobby_32",
+        "Raum_Keller_32",
+        "Raum_Kind_32",
+        "Raum_Party_32",
+        "Raum_Schlafen_32",
+        "Raum_WC_32",
+        "Raum_Wohnen_32"
+    ]
+}
